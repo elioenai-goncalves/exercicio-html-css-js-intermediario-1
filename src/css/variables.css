@@ -1,0 +1,12 @@
+:root{
+    --cor-fonte-primaria: #000000;
+    --familia-fonte: 'Roboto', sans-serif;
+    --tamanho-fonte-titulo: 50px;
+    --tamanho-fonte-texto: 25px;
+    --tamanho-fonte-botao: 30px;
+    --altura-linha-titulo: 59px;
+    --altura-linha-texto-botao: 35px;
+    --peso-fonte-titulo: 400;
+    --peso-fonte-texto: 300;
+    --peso-fonte-botao: 700;
+}
